@@ -4,19 +4,57 @@
       "id": 1,
       "conteudo": "Que bom que vc veio",
       "autoria": "Naysadas",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Estudando Angular",
       "autoria": "Dev Alura",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Angular é o melhor'",
       "autoria": "Dev Alura",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "conteudo": "test",
+      "autoria": "test",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 4
+    },
+    {
+      "conteudo": "testsatata",
+      "autoria": "testsatata",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 5
+    },
+    {
+      "conteudo": "testsatata",
+      "autoria": "testsatata",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 6
+    },
+    {
+      "conteudo": "testsatatatestsatata",
+      "autoria": "testsatatatestsatata",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 7
+    },
+    {
+      "conteudo": "Que bom que vc veio",
+      "autoria": "sadasdasd",
+      "modelo": "modelo2",
+      "favorito": true,
+      "id": 8
     }
   ]
 }
